@@ -418,3 +418,5 @@
 2018-08-06 14:57:40,938 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vishnu/workspace/DemoProject/src/main/resources
 2018-08-06 14:57:40,943 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-08-06 14:57:40,943 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vishnu/workspace/DemoProject/src/test/resources
+2018-08-07 10:38:07,192 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.16.v20140903
+2018-08-07 10:38:07,221 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:44766
